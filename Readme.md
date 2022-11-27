@@ -5,9 +5,7 @@
 * 개발인원: Frontend 3, Backend 2 (Backend 담당)
 * 기술스택: Python, Django, DjangoRestFramework, MySQL
 
-여러가지 콘텐츠를 바탕으로한 잡지 커머스 사이트의 API 서비스를 구현했습니다. 잡지 커머스 사이트 Magazine b(https://magazine-b.co.kr/) 사이트의 기획을 모티브하였습니다.
-
-기존의 팀 프로젝트에 DjangoRestFramework를 적용하여 리팩토링 및 고도화 하였습니다.
+여러가지 콘텐츠를 바탕으로한 잡지 커머스 사이트의 API 서비스를 구현했습니다. 잡지 커머스 사이트 Magazine b(https://magazine-b.co.kr/) 사이트의 기획을 모티브하였습니다. 기존의 팀 프로젝트에 DjangoRestFramework를 적용하여 리팩토링 및 고도화 하였습니다.
 
 ## 설치
 
